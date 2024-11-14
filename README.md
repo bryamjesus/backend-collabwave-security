@@ -1,7 +1,7 @@
 # Security
 ## Architecture
 ```
-src/main/java/com/tuempresa/authservice
+src/main/java/com/collabwave/security
 ├── controller
 │   └── AuthController.java
 ├── dto
