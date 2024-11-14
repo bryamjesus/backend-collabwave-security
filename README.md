@@ -6,8 +6,8 @@ src/main/java/com/collabwave/security
 │   └── AuthController.java
 ├── dto
 │   └── Login
-│       ├── LoginRequest.java
-│       └── LoginResponse.java
+│   │   ├── LoginRequest.java
+│   └── └── LoginResponse.java
 ├── model
 │   └── User.java
 ├── repository

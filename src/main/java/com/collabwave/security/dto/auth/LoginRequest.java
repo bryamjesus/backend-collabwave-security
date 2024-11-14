@@ -1,4 +1,4 @@
-package com.collabwave.security.dto.login;
+package com.collabwave.security.dto.auth;
 
 public class LoginRequest {
     private String username;

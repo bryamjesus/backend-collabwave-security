@@ -1,4 +1,4 @@
-package com.collabwave.security.dto.login;
+package com.collabwave.security.dto.auth;
 
 public class LoginResponse {
     private String token;
